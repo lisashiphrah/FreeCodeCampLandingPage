@@ -1,5 +1,5 @@
-# Responsive Web Design Projects - Build a Product Landing Page
-Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/RKRbwL.
+# :boom: Responsive Web Design Projects - Build a Product Landing Page :star:
+Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/RKRbwL. :point_left: :point_left: :point_left:
 
 <img src="img/bigImg.PNG" />
 
